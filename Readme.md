@@ -1,5 +1,5 @@
 
-# Shop
+# scala_test
     Java 7 application
     
 ## Installation required
